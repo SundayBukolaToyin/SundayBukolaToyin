@@ -2,8 +2,7 @@
 👀 Passionate About Data Analysis
 I’m diving into the world of data analysis, turning raw data into insightful stories and actionable insights.
 
-🌱 Currently Learning
-Exploring the intricacies of data cleaning, visualization, and statistical analysis with tools like Python, R, and SQL. Always eager to learn more and improve my skills.
+🌱 Currently Learning and Exploring the intricacies of data cleaning, visualization, and statistical analysis with tools like Python, R, and SQL. Always eager to learn more and improve my skills.
 
 💞️ Collaboration
 Looking to collaborate on data analysis projects, open-source contributions, and any initiative that involves transforming data into meaningful narratives. Let's turn numbers into knowledge together!
